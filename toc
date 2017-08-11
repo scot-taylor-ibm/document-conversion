@@ -16,7 +16,7 @@ Document Conversion
     Additional resources
         [Blog](https://developer.ibm.com/watson/blog/)
         [Webinars](https://www.ibm.com/watson/webinars/)
-        [Watson videos](https://www.youtube.com/user/IBMWatsonSolutions)
+        [Watson videos](https://www.youtube.com/user/IBMWatsonSolutions/)
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
