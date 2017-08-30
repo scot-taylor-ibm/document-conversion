@@ -32,7 +32,7 @@ To use the {{site.data.keyword.documentconversionshort}} service to convert a do
 ## Supported languages
 {: #languages}
 
-The {{site.data.keyword.documentconversionshort}} service supports content in English, French, German, Japanese, Italian, Brazilian Portuguese, and Spanish.
+The {{site.data.keyword.documentconversionshort}} service supports content in English, French, German, Japanese, Italian, Brazilian Portuguese, Korean, and Spanish.
 
 ## Try out the service
 {: #getstarted}
