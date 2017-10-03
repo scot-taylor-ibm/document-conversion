@@ -19,6 +19,8 @@ lastupdated: "2017-08-11"
 
 # About
 
+**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.documentconversionshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to (migrate)[/docs/services/discovery/migrate-dcs-rr.html].  **Note:** May not apply in select Dedicated environments.
+
 The {{site.data.keyword.documentconversionfull}} service converts a single HTML, PDF, or Microsoft Word&trade; document. The input document is transformed into normalized HTML, plain text, or a set of JSON-formatted Answer Units that can be used with other {{site.data.keyword.watson}} services, like the {{site.data.keyword.watson}} {{site.data.keyword.retrieveandrankshort}} service.
 {: shortdesc}
 
