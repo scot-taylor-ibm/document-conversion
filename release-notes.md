@@ -20,6 +20,8 @@ lastupdated: "2017-08-11"
 # Release notes
 {: #release-notes}
 
+**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.documentconversionshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to (migrate)[/docs/services/discovery/migrate-dcs-rr.html].  **Note:** May not apply in select Dedicated environments.
+
 The following new features and changes to the service are available. These changes do not break existing code. If a change breaks existing code, it is identified as a new version.
 {: shortdesc}
 

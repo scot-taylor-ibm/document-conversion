@@ -20,6 +20,8 @@ lastupdated: "2017-08-11"
 # Getting started tutorial
 {: #gettingStarted}
 
+**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.documentconversionshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to (migrate)[/docs/services/discovery/migrate-dcs-rr.html].  **Note:** May not apply in select Dedicated environments.
+
 This tutorial guides you through how to use and customize the {{site.data.keyword.IBM_notm}} {{site.data.keyword.watson}} {{site.data.keyword.documentconversionshort}} service with cURL commands.
 {: shortdesc}
 
