@@ -19,7 +19,7 @@ lastupdated: "2017-08-11"
 
 # Advanced customization options
 
-**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.documentconversionshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to (migrate)[/docs/services/discovery/migrate-dcs-rr.html].  **Note:** May not apply in select Dedicated environments.
+**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.documentconversionshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to [migrate](/docs/services/discovery/migrate-dcs-rr.html).  **Note:** May not apply in select Dedicated environments.
 
 The {{site.data.keyword.documentconversionshort}} service has advanced customization options that allow you to define tags and structure in the conversion output. Customizing output is useful for removing redundant tags or for changing output to match existing styles or standards in your organization. The following sections describe the custom configuration options.
 {: shortdesc}
