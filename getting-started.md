@@ -20,7 +20,7 @@ lastupdated: "2017-08-11"
 # Getting started tutorial
 {: #gettingStarted}
 
-**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.documentconversionshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to [migrate](/docs/services/discovery/migrate-dcs-rr.html).  **Note:** May not apply in select Dedicated environments.
+**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.documentconversionshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to [migrate](/docs/services/discovery/migrate-dcs-rr.html).  **Note:** Might not apply in select Dedicated environments.
 
 This tutorial guides you through how to use and customize the {{site.data.keyword.IBM_notm}} {{site.data.keyword.watson}} {{site.data.keyword.documentconversionshort}} service with cURL commands.
 {: shortdesc}
@@ -104,6 +104,7 @@ This tutorial walks you through using a custom conversion configuration that str
 The response contains a cleaned up version of the full content of the converted document.
 
 ### Using your own data
+{: #using-own-data}
 
 To create your own custom JSON, see [Advanced customization options ![External link icon](../../icons/launch-glyph.svg "External link icon")](customizing.html){: new_window}.
 
